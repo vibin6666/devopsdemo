@@ -1,4 +1,4 @@
-DEVOPS DEMO CLASS
+ DEVOPS DEMO CLASS
 
 
 
@@ -6,7 +6,3 @@ DEVOPS DEMO CLASS
 
 
 CI CD  CD CD CD 
-
-
-
-new commit CD CD
