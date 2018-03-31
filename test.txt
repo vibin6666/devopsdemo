@@ -1,4 +1,4 @@
-DEVOPS DEMO CLASS
+ DEVOPS DEMO CLASS
 
 
 
@@ -9,4 +9,4 @@ CI CD  CD CD CD
 
 
 
-new commit
+new commit devops
